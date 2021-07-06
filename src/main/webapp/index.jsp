@@ -5,7 +5,7 @@
 
    <body>
 
-      Which one will it be for you today champ?<br/>
+      Which one will it be for you today mate?<br/>
       <a href="#" onclick="playRoshambo('rock')"> rock </a>
       <a href="#" onclick="playRoshambo('paper')"> paper </a>
       <a href="#" onclick="playRoshambo('scissors')"> scissors </a>
