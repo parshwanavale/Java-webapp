@@ -5,7 +5,7 @@
 
    <body>
 
-      Which one will it be for u today mate?<br/>
+      Which one is your choice?<br/>
       <a href="#" onclick="playRoshambo('rock')"> rock </a>
       <a href="#" onclick="playRoshambo('paper')"> paper </a>
       <a href="#" onclick="playRoshambo('scissors')"> scissors </a>
